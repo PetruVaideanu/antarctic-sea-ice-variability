@@ -1,5 +1,3 @@
-# components-of-antarctic-sea-ice-variability
-
 
 This repository contains the analysis code and figures used in the study:
 **"Components of Antarctic sea ice variability"** (Vaideanu et al., 2025, under review).
